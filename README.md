@@ -7,15 +7,16 @@
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-	 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++%2B%2B&logoColor=white">
+	 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus%2B%2B&logoColor=white">
 	<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 	<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift%2B%2B&logoColor=white">
 	<br>
 	<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch%2B%2B&logoColor=white">
 	<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow%2B%2B&logoColor=white">
 	<img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv%2B%2B&logoColor=white">
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux%2B%2B&logoColor=white">
+	<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker%2B%2B&logoColor=white">
 </div>
 <br>
 <div align=center>
