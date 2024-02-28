@@ -1,6 +1,4 @@
-
-
-![egg](https://capsule-render.vercel.app/api?type=egg&color=auto&height=210)
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20RECT%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
 
 <!--
 **kwakeunji/kwakeunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
