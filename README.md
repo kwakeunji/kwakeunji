@@ -33,22 +33,18 @@
 </div>
 <div align=center>
 	<a href="https://litt1eforest.tistory.com"> 
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
-	<a href="https://yermi.tistory.com">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+		<img src="https://img.shields.io/badge/tistory-EE4C2C?style=for-the-badge&logo=tistory&logoColor=white">
 	</a>
 	<a href="mailto:oyl456@bme.gachon.ac.kr">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=email&logoColor=white">
 	</a>
 	<a href="">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+		<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 	</a>
 	<br>
 </div>
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwakeunji&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=kwakeunji&show_icons=true">
 
 
