@@ -7,23 +7,23 @@
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-	 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+	 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++%2B%2B&logoColor=white">
+	<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+	<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift%2B%2B&logoColor=white">
 	<br>
-	<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+	<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch%2B%2B&logoColor=white">
+	<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow%2B%2B&logoColor=white">
+	<img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv%2B%2B&logoColor=white">
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 </div>
 <br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
-	<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
-	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
+	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+	<img src="https://img.shields.io/badge/nvidia-76B900?style=flat&logo=nvidia&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
