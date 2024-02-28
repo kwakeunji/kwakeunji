@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-	 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+	 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white">
 	<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=clogoColor=white">
 	<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
 	<br>
