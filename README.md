@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-	 <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus%2B%2B&logoColor=white">
+	 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus%2B%2B&logoColor=white">
 	<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 	<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift%2B%2B&logoColor=white">
 	<br>
@@ -23,9 +23,9 @@
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-	<img src="https://img.shields.io/badge/nvidia-76B900?style=flat&logo=nvidia&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+	<img src="https://img.shields.io/badge/nvidia-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
 <br>
 <div align=center>
