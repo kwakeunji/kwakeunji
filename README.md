@@ -51,6 +51,8 @@
 	<br>
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=ejkwak&theme=github-dark&filter=study" alt="LeetCode Badges"/>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+
 <!--
 **kwakeunji/kwakeunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
