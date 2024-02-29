@@ -46,6 +46,10 @@
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=kwakeunji&show_icons=true">
+<br>
+<div align=center>
+	<br>
+<img src="https://leetcard.jacoblin.cool/ejkwak?theme=nord&font=Brawler&ext=heatmap">
 	
 
 
