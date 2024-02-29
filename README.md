@@ -47,10 +47,6 @@
 	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=kwakeunji&show_icons=true">
 
-<div align=center>
-	<br>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=ejkwak&theme=github-dark&filter=study" alt="LeetCode Badges"/>
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 
 <!--
