@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=EJ%20Github!&fontSize=90" />	
 </div>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<h3>🎨 SNS & Portfolio 🎨</h3>
 </div>
 <div align=center>
 	<a href="https://litt1eforest.tistory.com"> 
