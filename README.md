@@ -47,6 +47,10 @@
 	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=kwakeunji&show_icons=true">
 
+<div align=center>
+	<br>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=kwakeunji&theme=github-dark" alt="LeetCode Badges"/>
+
 
 <!--
 **kwakeunji/kwakeunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
