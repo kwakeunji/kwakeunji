@@ -49,12 +49,7 @@
 <br>
 <div align=center>
 	<br>
-<img src="https://leetcard.jacoblin.cool/ejkwak?theme=nord&font=Brawler&ext=heatmap">
-	
-
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/ejkwak?theme=nord&font=Brawler&ext=heatmap)
+<img src="https://leetcard.jacoblin.cool/ejkwak?theme=nord&ext=heatmap">
 
 <!--
 **kwakeunji/kwakeunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
