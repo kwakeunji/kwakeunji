@@ -1,6 +1,6 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=EJ%20Github!&fontSize=90" />	
-	<p>👋새로운 것을 직접 만들고 연구하는 것을 좋아하는 개발자 곽은지입니다.</p>
+	<p>👋새로운 것을 직접 만들어 내고 연구하는 것을 좋아하는 개발자 곽은지입니다.</p>
 </div>
 <div align=center>
 	<h3>🎨 SNS & Portfolio 🎨</h3>
@@ -50,7 +50,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 	<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-	<img src="https://img.shields.io/badge/notion-0000000?style=for-the-badge&logo=notion&logoColor=white">
+	<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 	<img src="https://img.shields.io/badge/gather-6A5FBB?style=for-the-badge&logo=gather&logoColor=white">
 </div>
 <br>
