@@ -2,6 +2,21 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=EJ%20Github!&fontSize=90" />	
 </div>
 <div align=center>
+	<p>🎨 SNS & Portfolio 🎨</p>
+</div>
+<div align=center>
+	<a href="https://litt1eforest.tistory.com"> 
+		<img src="https://img.shields.io/badge/tistory-EE4C2C?style=for-the-badge&logo=tistory&logoColor=white">
+	</a>
+	<a href="mailto:oyl456@bme.gachon.ac.kr">
+		<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
+	<a href="">
+		<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+	</a>
+	<br>
+</div>
+<div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
@@ -28,21 +43,6 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
 <br>
-<div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
-<div align=center>
-	<a href="https://litt1eforest.tistory.com"> 
-		<img src="https://img.shields.io/badge/tistory-EE4C2C?style=for-the-badge&logo=tistory&logoColor=white">
-	</a>
-	<a href="mailto:oyl456@bme.gachon.ac.kr">
-		<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-	</a>
-	<a href="">
-		<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-	</a>
-	<br>
-</div>
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=kwakeunji&show_icons=true">
